@@ -1,4 +1,4 @@
-# BrooksCode-Hacakthon-2024
+## BrooksCode-Hacakthon-2024
 # Crowdsourcing Data Collector
 
 **Crowdsourcing Data Collector** is a JavaFX application designed to facilitate the collection and analysis of student information and their university preferences. This tool allows users to input data regarding students' grades, desired majors, and top three universities, which can then be saved for further analysis.
@@ -18,9 +18,3 @@
 - **Java**: The primary programming language for application logic.
 - **File I/O**: For reading from and writing to text files.
 
-## How to Run the Project
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/crowdsourcing-data-collector.git
-   cd crowdsourcing-data-collector
